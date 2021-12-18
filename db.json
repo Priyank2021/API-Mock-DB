@@ -1,0 +1,22 @@
+{
+    "events": [
+        {
+          "id": 5928101,
+          "category": "Sales & Services",
+          "title": "Barcode Printers",
+          "description": "ATPL can assist you with all of your barcode printing needs. We also provide the appropriate software applications, labels, ribbons, media and supplies along with instruction and even repair services."
+          },
+        {
+          "id": 4582797,
+          "category": "Sales & Services",
+          "title": "Barcode Scanners",
+          "description": "ATPL provides a wide range of barcode scanners and images with wireless functionality. Use general purpose handheld or hands-free scanners in retail, healthcare or light manufacturing operations and rugged scanners on the manufacturing and warehouse floor.."
+         },
+        {
+          "id": 8419988,
+          "category": "Sales & Services",
+          "title": "Hand-held Mobile Devices",
+          "description": "ATPL offers a wide range of handheld mobile computers with voice and data collection functionality, including barcode scanning and image capture as well as wireless networking capabilities."
+          }
+      ]
+}
